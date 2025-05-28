@@ -1,0 +1,124 @@
+h1{
+    text-align: center;
+    border: 1px;
+    color: antiquewhite;
+}
+body{
+background: linear-gradient(to bottom, red, black);
+height: 100vh;
+margin: 0%;
+}
+
+
+
+.navbar {
+    background-color: #181818;
+
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+  
+  .navbar li {
+    display: inline;
+    
+  }
+  
+  .navbar a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 14px 20px;
+    display: block;
+    border-radius: 50px;
+  }
+
+  p{
+    color:rgb(255, 255, 255);
+  }
+ .hero-text h1 {
+      font-size: 3rem;
+      line-height: 1.2;
+    }
+
+  .bordap{
+border-bottom: #181818;
+  }
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #0e0e34;
+  color: white;
+}
+
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 60px;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.banner-esquerda .imagem-tech {
+  max-width: 400px;
+  width: 100%;
+}
+
+.banner-direita {
+  max-width: 600px;
+}
+
+.titulo-principal {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.data-evento {
+  font-size: 24px;
+  color: #00ff66;
+  margin: 10px 0;
+}
+
+.local-evento {
+  font-size: 18px;
+  color: #e0e0e0;
+  margin-bottom: 20px;
+}
+
+.barra {
+  width: 150px;
+  height: 4px;
+  background-color: #00faff;
+  margin-bottom: 30px;
+}
+
+.botao-inscricao {
+  padding: 15px 25px;
+  background: #00faff;
+  border: none;
+  border-radius: 40px;
+  color: #000;
+  font-weight: bold;
+  font-size: 16px;
+  box-shadow: 0 0 15px #00faff;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.botao-inscricao:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 25px #00faff;
+}
