@@ -1,19 +1,63 @@
-                                                                TechSolutions Summit 2025 — Projeto Web Acadêmico
+# TechSolutions Summit 2025 — Projeto Web Acadêmico
 
-O TechSolutions Summit 2025 é um projeto acadêmico desenvolvido com HTML5 e CSS3, com o objetivo de simular o site de um evento tecnológico moderno. Criado como parte da jornada de aprendizado em desenvolvimento web, o projeto busca aplicar na prática conceitos fundamentais do front-end.
+**Este site foi desenvolvido como parte de uma atividade acadêmica voltada ao aprendizado de desenvolvimento web.**
 
-A estrutura conta com uma página inicial (index.html) que apresenta o evento, incluindo data, local e palestrantes, além de uma página de formulário de inscrição (formulario.html). O layout é responsivo, com uso de Flexbox, gradientes, transições e um design pensado para boa experiência do usuário, tanto no desktop quanto no mobile.
+Bem-vindo ao repositório do projeto "TechSolutions Summit"! Este é um website simples e responsivo criado para a divulgação de um evento de
+tecnologia, com palestrantes de alto nível.
 
-Os arquivos estão organizados de forma simples: HTML, CSS e uma pasta de imagens (img/). Não há backend implementado, mas o projeto foi estruturado para facilitar futuras integrações.
+---
 
-Entre os próximos passos planejados estão melhorias como envio real do formulário, validações, SEO básico e até uma versão multilíngue. O projeto serve como base para estudantes que desejam praticar e evoluir no desenvolvimento web.
+## 🚀 Sobre o Projeto
 
-Esse trabalho representa uma iniciativa prática no contexto acadêmico, mostrando como é possível transformar teoria em experiência real com código.
+O projeto simula um convite digital para um evento, com foco na prática de HTML e CSS. Ele inclui:
 
-🛠️ Tecnologias Utilizadas
-● HTML5
-● CSS3 (Flexbox, Gradientes, Animações)
-● Sem JavaScript (100% funcional com HTML/CSS)
+● Página inicial com data, local e descrição do evento.
 
+● Seção de convidados, com imagem e descrição de cada um.
 
+● Formulário de presença, coletando nome, e-mail e tipo de participação (presencial/online).
 
+Layout responsivo, adaptado para computadores e dispositivos móveis.
+Este projeto é um convite digital para uma festa, desenvolvido com foco na prática de HTML e CSS. Ele inclui:
+
+---
+
+## ✨ Tecnologias Utilizadas
+
+* **HTML5:** Estrutura semântica e conteúdo da página.
+* **CSS3:** Estilização completa, incluindo layout (Flexbox), cores e responsividade (`@media queries`).
+
+---
+
+---
+
+## 📊 Estrutura de Arquivos
+
+├── index.html                  # Estrutura principal da página
+
+├── img/                        # Pasta para imagens
+
+├── css/                        # Pasta para todos os arquivos de estilo CSS
+
+└── README.md                   # Este arquivo!
+---
+
+## 💡 Aprendizados e Desafios
+
+* **Aprendizados:**
+    * Aprofundamento na estruturação semântica do HTML5.
+    * Prática em layout com Flexbox para criação de componentes responsivos.
+    * Implementação de responsividade utilizando `@media queries` para diferentes tamanhos de tela.
+* **Desafios:**
+    * Ajuste fino de desalinhamento de elementos com Flexbox (particularmente na seção de convidados).
+    * Compreensão da hierarquia de carregamento de arquivos CSS e especificidade.
+    * Dominar o fluxo de trabalho do Git e GitHub (inicialização, commits, push, resolução de conflitos de histórico e problemas de autenticação).
+
+---
+
+## 🤝 Contato
+
+* **GitHub:** [https://github.com/Luangaldinoo](https://github.com/Luangaldinoo)
+* **LinkedIn:** [www.linkedin.com/in/luangaldinobr](www.linkedin.com/in/luangaldinobr)
+
+---
